@@ -2,16 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: 小白之家
 heroImage: /logo.svg
 heroText: stpwan #TODO: 你博客的名称
 heroFullScreen: true
-tagline: aoowwwwwwwww#TODO: 你可以在这里放置你的口号与标语
-projects:
-  - icon: project标语里放置
-    name: 短视频H5 #TODO: 你自己的项目
-    desc: 滚动方案、阿里云播放器
-    link: http://web.iproute.cn/
+tagline: aowuuuuuuuuuuuuu  #TODO: 你可以在这里放置你的口号与标语
 
   # - icon: link
   #   name: 链接名称
