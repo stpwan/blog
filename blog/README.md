@@ -6,9 +6,9 @@ title: 博客主页
 heroImage: /logo.svg
 heroText: stpwan #TODO: 你博客的名称
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
+tagline: aoowwwwwwwww#TODO: 你可以在这里放置你的口号与标语
 projects:
-  - icon: project
+  - icon: project标语里放置
     name: 短视频H5 #TODO: 你自己的项目
     desc: 滚动方案、阿里云播放器
     link: http://web.iproute.cn/
